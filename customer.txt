@@ -1,0 +1,14 @@
+00000001,han,2 pham thi lan anh,0987123567,1,hanhayban,han123
+00000002,nhan,18 pham nhu xuong,0768976234,0,nhanhaykhoc,nhan123
+00000003,huy,18 phuoc ly 4,0923456236,1,huywibu,huy123
+00000004,xuan,129 nguyen van linh,0298689123,0,xuandilam,xuan123
+00000005,tram,120 nguyen luong bang,0879234123,0,tramnhat,tram123
+00000006,henry,2 ly thai tong,0987214789,1,henrycamxuc,henry123
+00000007,tai,18 me suot,0923135876,1,taipro,tai123
+00000008,minh,son tra,0983123786,1,minhtt,minh123
+00000009,hanry,son tra,0124957120,1,nhamlan,nham123
+00000010,harry,harry,0976245897,0,harrytt,harry123
+00000011,tri,117 chon tam 4,0923871235,1,hoangminhtri@123,tri123
+00000012,hai,18 ninh ton,0927938123,1,hainhatruong,hai123
+00000013,toan,12 ho tuong,0387145698,1,toandeptrai,toan123
+end file
